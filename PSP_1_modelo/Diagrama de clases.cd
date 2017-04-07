@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="La interfaz IColeccion contiene los metodos basicos que debe implementar una clase tipo coleccion en este modelo">
+    <Position X="14.309" Y="3.181" Height="0.927" Width="2.127" />
+  </Comment>
+  <Comment CommentText="La clase Coleccion implementa la interfaz IColeccion, usando un List&lt;Object&gt; para contener los objetos">
+    <Position X="10.018" Y="5.531" Height="1.062" Width="1.783" />
+  </Comment>
+  <Comment CommentText="La aplicación a futuro podria soportar multiples estandar. Mediante esta clase junto con su colección deja abierta la puerta para dicha mejora">
+    <Position X="6.74" Y="7.531" Height="0.75" Width="2.773" />
+  </Comment>
+  <Comment CommentText="La clase Archivo, junto con su colección, son usadas durante el procesamiento para guardar en estas el resultado de los conteos por archivo">
+    <Position X="3.479" Y="7.354" Height="0.75" Width="2.523" />
+  </Comment>
+  <Class Name="PSP_1_modelo.Aplicacion">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aplicacion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ColeccionEstandar" />
+      <Property Name="ColeccionArchivos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PSP_1_modelo.Estandar">
+    <Position X="6.75" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAABEAAAAEAAA=</HashCode>
+      <FileName>Estandar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PSP_1_modelo.Coleccion">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAEQAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coleccion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PSP_1_modelo.ColeccionEstandar">
+    <Position X="6.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ColeccionEstandar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PSP_1_modelo.ColeccionArchivos">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColeccionArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PSP_1_modelo.Archivo">
+    <Position X="3.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAhAAABAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Archivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PSP_1_modelo.IColeccion">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAQAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IColeccion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

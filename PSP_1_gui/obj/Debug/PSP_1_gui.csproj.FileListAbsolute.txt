@@ -1,0 +1,10 @@
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_gui.exe.config
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_gui.exe
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_gui.pdb
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\obj\Debug\PSP_1_gui.csprojResolveAssemblyReference.cache
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\obj\Debug\PSP_1_gui.exe
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\obj\Debug\PSP_1_gui.pdb
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_control.dll
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_modelo.dll
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_control.pdb
+C:\Users\Max\Source\Repos\PSP_1\PSP_1_gui\bin\Debug\PSP_1_modelo.pdb
